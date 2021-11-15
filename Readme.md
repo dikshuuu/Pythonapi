@@ -33,7 +33,7 @@ The following JSON data response will be returned:
 }]
 
 We will get the static data in JSON format with id 1 using below URL with GET HTTP method.
-http://localhost:5000/emp/1
+http://localhost:5000/test/1
 The response will be JSON data:
 
 [
